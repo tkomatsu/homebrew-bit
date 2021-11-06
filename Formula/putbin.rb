@@ -1,6 +1,3 @@
-# Documentation: https://docs.brew.sh/Formula-Cookbook
-#                https://rubydoc.brew.sh/Formula
-# PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class Putbin < Formula
   desc "Put binary number"
   homepage "https://github.com/tkomatsu/putbin"
@@ -16,4 +13,3 @@ class Putbin < Formula
     system "true"
   end
 end
-
