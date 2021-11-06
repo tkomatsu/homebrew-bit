@@ -1,8 +1,8 @@
 class Putbin < Formula
   desc "Put binary number"
   homepage "https://github.com/tkomatsu/putbin"
-  url "https://github.com/tkomatsu/putbin/releases/download/0.1/putbin"
-  sha256 "3e3263c3db1687890f95c3d715d3c3de39383b533690bad703fe2e68c0385b21"
+  url "https://github.com/tkomatsu/putbin/releases/download/1.0/putbin"
+  sha256 "1e1c3169eddb0362933c59eef20e71c2372f016649164d870dcee34a4b85e520"
   license "MIT"
 
   def install
