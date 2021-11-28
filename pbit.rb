@@ -9,7 +9,7 @@ class Pbit < Formula
   license "MIT"
 
   def install
-    bin.install "pbit"
+    bin.install "pbit_macos_amd64"
   end
 
   test do
